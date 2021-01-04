@@ -1,0 +1,4 @@
+Comment,Designator,Footprint,LCSC Part Number
+CD74HC4067M,"4067_1,4067_2",Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm,C496123
+100nF,"C1,C2",Capacitor_SMD:C_0603_1608Metric,C14663
+220OHMS,R1,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C21189

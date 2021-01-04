@@ -1,0 +1,6 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+4067_1,CD74HC4067M,SOIC-24W_7.5x15.4mm_P1.27mm,142.8,-68.94,180,bottom
+4067_2,CD74HC4067M,SOIC-24W_7.5x15.4mm_P1.27mm,270.05,-73.44,180,bottom
+C1,100nF,C_0603_1608Metric,262.66,-65.645,270,bottom
+C2,100nF,C_0603_1608Metric,134.98,-61.145,270,bottom
+R1,220OHMS,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,421.9175,-87.21,0,bottom
