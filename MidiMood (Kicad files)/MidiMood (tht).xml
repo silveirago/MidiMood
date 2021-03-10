@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/gustavosilveira/Kicad/Projects/MiniMood/MiniMood.sch</source>
+    <date>Thursday, October 29, 2020 at 02:23:15 PM</date>
+    <tool>Eeschema (5.1.7-0-10_14)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>MidiMood</title>
+        <company>Musico Nerd</company>
+        <rev>1</rev>
+        <date>2020-10-27</date>
+        <source>MiniMood.sch</source>
+        <comment number="1" value="by Gustavo Silveira"/>
+        <comment number="2" value="musiconerd.com/youtube"/>
+        <comment number="3" value="gustavosilveira@musiconerd.com"/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="pot1">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA269A2</tstamp>
+    </comp>
+    <comp ref="pot2">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA27F48</tstamp>
+    </comp>
+    <comp ref="pot3">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA292E9</tstamp>
+    </comp>
+    <comp ref="pot4">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA2BA33</tstamp>
+    </comp>
+    <comp ref="pot5">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA2BA39</tstamp>
+    </comp>
+    <comp ref="pot6">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA2BA3F</tstamp>
+    </comp>
+    <comp ref="pot7">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA2C91E</tstamp>
+    </comp>
+    <comp ref="pot8">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA2C924</tstamp>
+    </comp>
+    <comp ref="pot9">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA2D909</tstamp>
+    </comp>
+    <comp ref="pot10">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA2D90F</tstamp>
+    </comp>
+    <comp ref="pot11">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA2D915</tstamp>
+    </comp>
+    <comp ref="pot12">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA2E644</tstamp>
+    </comp>
+    <comp ref="pot13">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA2E64A</tstamp>
+    </comp>
+    <comp ref="pot14">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA2E650</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>SW</value>
+      <footprint>Toggle Switch:Toggle switch small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA3027A</tstamp>
+    </comp>
+    <comp ref="SW4">
+      <value>SW</value>
+      <footprint>Toggle Switch:Toggle switch small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA30F6F</tstamp>
+    </comp>
+    <comp ref="SW5">
+      <value>SW</value>
+      <footprint>Toggle Switch:Toggle switch small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA31B8F</tstamp>
+    </comp>
+    <comp ref="SW6">
+      <value>SW</value>
+      <footprint>Toggle Switch:Toggle switch small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA31B95</tstamp>
+    </comp>
+    <comp ref="pot15">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA32957</tstamp>
+    </comp>
+    <comp ref="pot16">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA3295D</tstamp>
+    </comp>
+    <comp ref="SW8">
+      <value>SW</value>
+      <footprint>Toggle Switch:Toggle switch small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA344DD</tstamp>
+    </comp>
+    <comp ref="SW9">
+      <value>SW</value>
+      <footprint>Toggle Switch:Toggle switch small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA344E3</tstamp>
+    </comp>
+    <comp ref="pot17">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA38A97</tstamp>
+    </comp>
+    <comp ref="pot18">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA38A9D</tstamp>
+    </comp>
+    <comp ref="pot19">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA38AA3</tstamp>
+    </comp>
+    <comp ref="pot20">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA38AA9</tstamp>
+    </comp>
+    <comp ref="pot21">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA38AAF</tstamp>
+    </comp>
+    <comp ref="pot22">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA38AB5</tstamp>
+    </comp>
+    <comp ref="pot24">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA38ABB</tstamp>
+    </comp>
+    <comp ref="pot25">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA38AC1</tstamp>
+    </comp>
+    <comp ref="pot23">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA3981A</tstamp>
+    </comp>
+    <comp ref="pot26">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_POT_Small" description="Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA3A011</tstamp>
+    </comp>
+    <comp ref="SW10">
+      <value>SW</value>
+      <footprint>Toggle Switch:Toggle switch small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA344E9</tstamp>
+    </comp>
+    <comp ref="SW7">
+      <value>SW</value>
+      <footprint>Toggle Switch:Toggle switch small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA33112</tstamp>
+    </comp>
+    <comp ref="SW11">
+      <value>SW</value>
+      <footprint>Toggle Switch:Toggle switch small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA3AAC9</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FA3B64D</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SW</value>
+      <footprint>Toggle Switch:Toggle switch small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FAC9490</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW</value>
+      <footprint>Toggle Switch:Toggle switch small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FAC9496</tstamp>
+    </comp>
+    <comp ref="4067_1">
+      <value>CD74HC4067M</value>
+      <footprint>Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C496123</field>
+        <field name="LCSC Part Number">C496123</field>
+      </fields>
+      <libsource lib="74xx" part="CD74HC4067M" description="High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer, SOIC-24"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FBFD3B2</tstamp>
+    </comp>
+    <comp ref="4067_2">
+      <value>CD74HC4067M</value>
+      <footprint>Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C496123</field>
+        <field name="LCSC Part Number">C496123</field>
+      </fields>
+      <libsource lib="74xx" part="CD74HC4067M" description="High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer, SOIC-24"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC26645</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C14663</field>
+        <field name="LCSC Part Number">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC3320A</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C14663</field>
+        <field name="LCSC Part Number">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC60261</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>Arduino_Pro_Micro</value>
+      <footprint>promicro:ProMicro</footprint>
+      <libsource lib="promicro" part="Arduino_Pro_Micro" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FCA4CB4</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>220OHMS</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C21189</field>
+        <field name="LCSC Part Number">C21189</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FCA79ED</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Connector</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Counter_Clockwise" description="Generic connector, double row, 02x05, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FD146F8</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74xx" part="CD74HC4067M">
+      <description>High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer, SOIC-24</description>
+      <docs>http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf</docs>
+      <footprints>
+        <fp>SOIC*W*7.5x15.4mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CD74HC4067M</field>
+        <field name="Footprint">Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COM" type="passive"/>
+        <pin num="2" name="I7" type="passive"/>
+        <pin num="3" name="I6" type="passive"/>
+        <pin num="4" name="I5" type="passive"/>
+        <pin num="5" name="I4" type="passive"/>
+        <pin num="6" name="I3" type="passive"/>
+        <pin num="7" name="I2" type="passive"/>
+        <pin num="8" name="I1" type="passive"/>
+        <pin num="9" name="I0" type="passive"/>
+        <pin num="10" name="S0" type="input"/>
+        <pin num="11" name="S1" type="input"/>
+        <pin num="12" name="GND" type="power_in"/>
+        <pin num="13" name="S3" type="input"/>
+        <pin num="14" name="S2" type="input"/>
+        <pin num="15" name="~E" type="input"/>
+        <pin num="16" name="I15" type="passive"/>
+        <pin num="17" name="I14" type="passive"/>
+        <pin num="18" name="I13" type="passive"/>
+        <pin num="19" name="I12" type="passive"/>
+        <pin num="20" name="I11" type="passive"/>
+        <pin num="21" name="I10" type="passive"/>
+        <pin num="22" name="I9" type="passive"/>
+        <pin num="23" name="I8" type="passive"/>
+        <pin num="24" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x05_Counter_Clockwise">
+      <description>Generic connector, double row, 02x05, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Counter_Clockwise</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_POT_Small">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_POT_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPST">
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPST</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="promicro" part="Arduino_Pro_Micro">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Arduino_Pro_Micro</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TX" type="BiDi"/>
+        <pin num="2" name="RX" type="BiDi"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="D2" type="BiDi"/>
+        <pin num="6" name="D3" type="BiDi"/>
+        <pin num="7" name="D4/A6" type="BiDi"/>
+        <pin num="8" name="D5" type="BiDi"/>
+        <pin num="9" name="D6/A7" type="BiDi"/>
+        <pin num="10" name="D7" type="BiDi"/>
+        <pin num="11" name="D8/A8" type="BiDi"/>
+        <pin num="12" name="D9/A9" type="BiDi"/>
+        <pin num="13" name="D10/A10" type="BiDi"/>
+        <pin num="14" name="D16" type="BiDi"/>
+        <pin num="15" name="D14" type="BiDi"/>
+        <pin num="16" name="D15" type="BiDi"/>
+        <pin num="17" name="D18/A0" type="BiDi"/>
+        <pin num="18" name="D19/A1" type="BiDi"/>
+        <pin num="19" name="D20/A2" type="BiDi"/>
+        <pin num="20" name="D21/A3" type="BiDi"/>
+        <pin num="21" name="VCC" type="power_out"/>
+        <pin num="22" name="RST" type="input"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="RAW" type="power_out"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xx">
+      <uri>/Library/Application Support/kicad/library/74xx.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/Library/Application Support/kicad/library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Library/Application Support/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/Library/Application Support/kicad/library/Switch.lib</uri>
+    </library>
+    <library logical="promicro">
+      <uri>/Users/gustavosilveira/Documents/Github/ProMicroKiCad/promicro_library/promicro.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(pot10-Pad1)">
+      <node ref="pot13" pin="1"/>
+      <node ref="pot10" pin="1"/>
+      <node ref="pot7" pin="1"/>
+      <node ref="pot5" pin="1"/>
+    </net>
+    <net code="2" name="VCC">
+      <node ref="pot6" pin="3"/>
+      <node ref="pot4" pin="3"/>
+      <node ref="pot8" pin="3"/>
+      <node ref="pot9" pin="3"/>
+      <node ref="C2" pin="2"/>
+      <node ref="pot11" pin="3"/>
+      <node ref="pot12" pin="3"/>
+      <node ref="U3" pin="21"/>
+      <node ref="C1" pin="2"/>
+      <node ref="4067_2" pin="24"/>
+      <node ref="pot14" pin="3"/>
+      <node ref="4067_1" pin="24"/>
+      <node ref="pot15" pin="3"/>
+      <node ref="pot16" pin="3"/>
+      <node ref="pot17" pin="3"/>
+      <node ref="pot18" pin="3"/>
+      <node ref="pot19" pin="3"/>
+      <node ref="pot20" pin="3"/>
+      <node ref="pot21" pin="3"/>
+      <node ref="pot22" pin="3"/>
+      <node ref="pot24" pin="3"/>
+      <node ref="pot25" pin="3"/>
+      <node ref="pot23" pin="3"/>
+      <node ref="pot26" pin="3"/>
+      <node ref="pot3" pin="3"/>
+      <node ref="pot2" pin="3"/>
+      <node ref="pot1" pin="3"/>
+      <node ref="J1" pin="2"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="D1" pin="1"/>
+      <node ref="SW11" pin="1"/>
+      <node ref="pot1" pin="1"/>
+      <node ref="SW7" pin="1"/>
+      <node ref="J1" pin="1"/>
+      <node ref="SW10" pin="1"/>
+      <node ref="pot26" pin="1"/>
+      <node ref="pot2" pin="1"/>
+      <node ref="pot23" pin="1"/>
+      <node ref="pot3" pin="1"/>
+      <node ref="pot25" pin="1"/>
+      <node ref="U3" pin="4"/>
+      <node ref="pot24" pin="1"/>
+      <node ref="U3" pin="3"/>
+      <node ref="pot22" pin="1"/>
+      <node ref="U3" pin="23"/>
+      <node ref="pot21" pin="1"/>
+      <node ref="pot4" pin="1"/>
+      <node ref="pot20" pin="1"/>
+      <node ref="pot5" pin="3"/>
+      <node ref="pot19" pin="1"/>
+      <node ref="pot6" pin="1"/>
+      <node ref="pot18" pin="1"/>
+      <node ref="pot17" pin="1"/>
+      <node ref="SW9" pin="1"/>
+      <node ref="SW8" pin="1"/>
+      <node ref="pot16" pin="1"/>
+      <node ref="pot15" pin="1"/>
+      <node ref="pot7" pin="3"/>
+      <node ref="pot8" pin="1"/>
+      <node ref="pot9" pin="1"/>
+      <node ref="C2" pin="1"/>
+      <node ref="pot10" pin="3"/>
+      <node ref="pot11" pin="1"/>
+      <node ref="pot12" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="pot13" pin="3"/>
+      <node ref="SW2" pin="1"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="SW6" pin="1"/>
+      <node ref="SW5" pin="1"/>
+      <node ref="pot14" pin="1"/>
+      <node ref="4067_2" pin="15"/>
+      <node ref="4067_2" pin="12"/>
+      <node ref="SW3" pin="1"/>
+      <node ref="SW4" pin="1"/>
+      <node ref="4067_1" pin="15"/>
+      <node ref="4067_1" pin="12"/>
+    </net>
+    <net code="4" name="/pot_2">
+      <node ref="U3" pin="9"/>
+      <node ref="pot19" pin="2"/>
+    </net>
+    <net code="5" name="/pot_3">
+      <node ref="U3" pin="11"/>
+      <node ref="pot22" pin="2"/>
+    </net>
+    <net code="6" name="/pot_1">
+      <node ref="U3" pin="7"/>
+      <node ref="pot24" pin="2"/>
+    </net>
+    <net code="7" name="/pot_4">
+      <node ref="pot25" pin="2"/>
+      <node ref="U3" pin="12"/>
+    </net>
+    <net code="8" name="/sw_1">
+      <node ref="SW11" pin="2"/>
+      <node ref="U3" pin="14"/>
+    </net>
+    <net code="9" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="10" name="/SIG_1">
+      <node ref="4067_1" pin="1"/>
+      <node ref="U3" pin="17"/>
+    </net>
+    <net code="11" name="/S0">
+      <node ref="4067_1" pin="10"/>
+      <node ref="4067_2" pin="10"/>
+      <node ref="U3" pin="5"/>
+    </net>
+    <net code="12" name="/S1">
+      <node ref="U3" pin="6"/>
+      <node ref="4067_2" pin="11"/>
+      <node ref="4067_1" pin="11"/>
+    </net>
+    <net code="13" name="/S3">
+      <node ref="U3" pin="10"/>
+      <node ref="4067_1" pin="13"/>
+      <node ref="4067_2" pin="13"/>
+    </net>
+    <net code="14" name="/S2">
+      <node ref="4067_1" pin="14"/>
+      <node ref="U3" pin="8"/>
+      <node ref="4067_2" pin="14"/>
+    </net>
+    <net code="15" name="/mux_15">
+      <node ref="4067_1" pin="16"/>
+      <node ref="pot6" pin="2"/>
+    </net>
+    <net code="16" name="/mux_14">
+      <node ref="4067_1" pin="17"/>
+      <node ref="SW2" pin="2"/>
+    </net>
+    <net code="17" name="/mux_13">
+      <node ref="pot3" pin="2"/>
+      <node ref="4067_1" pin="18"/>
+    </net>
+    <net code="18" name="/mux_12">
+      <node ref="pot5" pin="2"/>
+      <node ref="4067_1" pin="19"/>
+    </net>
+    <net code="19" name="/mux_7">
+      <node ref="4067_1" pin="2"/>
+      <node ref="pot9" pin="2"/>
+    </net>
+    <net code="20" name="/mux_11">
+      <node ref="4067_1" pin="20"/>
+      <node ref="pot2" pin="2"/>
+    </net>
+    <net code="21" name="/mux_10">
+      <node ref="4067_1" pin="21"/>
+      <node ref="SW1" pin="2"/>
+    </net>
+    <net code="22" name="/mux_9">
+      <node ref="4067_1" pin="22"/>
+      <node ref="pot1" pin="2"/>
+    </net>
+    <net code="23" name="/mux_8">
+      <node ref="4067_1" pin="23"/>
+      <node ref="pot4" pin="2"/>
+    </net>
+    <net code="24" name="/mux_6">
+      <node ref="4067_1" pin="3"/>
+      <node ref="pot12" pin="2"/>
+    </net>
+    <net code="25" name="/mux_5">
+      <node ref="4067_1" pin="4"/>
+      <node ref="pot7" pin="2"/>
+    </net>
+    <net code="26" name="/mux_4">
+      <node ref="4067_1" pin="5"/>
+      <node ref="pot13" pin="2"/>
+    </net>
+    <net code="27" name="/mux_3">
+      <node ref="pot10" pin="2"/>
+      <node ref="4067_1" pin="6"/>
+    </net>
+    <net code="28" name="/mux_2">
+      <node ref="4067_1" pin="7"/>
+      <node ref="pot8" pin="2"/>
+    </net>
+    <net code="29" name="/mux_1">
+      <node ref="pot14" pin="2"/>
+      <node ref="4067_1" pin="8"/>
+    </net>
+    <net code="30" name="/mux_0">
+      <node ref="4067_1" pin="9"/>
+      <node ref="pot11" pin="2"/>
+    </net>
+    <net code="31" name="/SIG_2">
+      <node ref="4067_2" pin="1"/>
+      <node ref="U3" pin="18"/>
+    </net>
+    <net code="32" name="/mux_15-2">
+      <node ref="4067_2" pin="16"/>
+      <node ref="SW7" pin="2"/>
+    </net>
+    <net code="33" name="/mux_14-2">
+      <node ref="pot16" pin="2"/>
+      <node ref="4067_2" pin="17"/>
+    </net>
+    <net code="34" name="/mux_13-2">
+      <node ref="SW6" pin="2"/>
+      <node ref="4067_2" pin="18"/>
+    </net>
+    <net code="35" name="/mux_12-2">
+      <node ref="SW5" pin="2"/>
+      <node ref="4067_2" pin="19"/>
+    </net>
+    <net code="36" name="/mux_7-2">
+      <node ref="SW8" pin="2"/>
+      <node ref="4067_2" pin="2"/>
+    </net>
+    <net code="37" name="/mux_11-2">
+      <node ref="SW4" pin="2"/>
+      <node ref="4067_2" pin="20"/>
+    </net>
+    <net code="38" name="/mux_10-2">
+      <node ref="4067_2" pin="21"/>
+      <node ref="pot15" pin="2"/>
+    </net>
+    <net code="39" name="/mux_9-2">
+      <node ref="4067_2" pin="22"/>
+      <node ref="SW10" pin="2"/>
+    </net>
+    <net code="40" name="/mux_8-2">
+      <node ref="SW3" pin="2"/>
+      <node ref="4067_2" pin="23"/>
+    </net>
+    <net code="41" name="/mux_6-2">
+      <node ref="SW9" pin="2"/>
+      <node ref="4067_2" pin="3"/>
+    </net>
+    <net code="42" name="/mux_5-2">
+      <node ref="pot17" pin="2"/>
+      <node ref="4067_2" pin="4"/>
+    </net>
+    <net code="43" name="/mux_4-2">
+      <node ref="pot20" pin="2"/>
+      <node ref="4067_2" pin="5"/>
+    </net>
+    <net code="44" name="/mux_3-2">
+      <node ref="pot23" pin="2"/>
+      <node ref="4067_2" pin="6"/>
+    </net>
+    <net code="45" name="/mux_2-2">
+      <node ref="pot26" pin="2"/>
+      <node ref="4067_2" pin="7"/>
+    </net>
+    <net code="46" name="/mux_1-2">
+      <node ref="pot21" pin="2"/>
+      <node ref="4067_2" pin="8"/>
+    </net>
+    <net code="47" name="/mux_0-2">
+      <node ref="pot18" pin="2"/>
+      <node ref="4067_2" pin="9"/>
+    </net>
+    <net code="48" name="/TX">
+      <node ref="U3" pin="1"/>
+      <node ref="J1" pin="3"/>
+    </net>
+    <net code="49" name="/D16">
+      <node ref="U3" pin="15"/>
+      <node ref="J1" pin="6"/>
+    </net>
+    <net code="50" name="/D15">
+      <node ref="U3" pin="16"/>
+      <node ref="J1" pin="7"/>
+    </net>
+    <net code="51" name="/A2">
+      <node ref="J1" pin="8"/>
+      <node ref="U3" pin="19"/>
+    </net>
+    <net code="52" name="/RX">
+      <node ref="J1" pin="4"/>
+      <node ref="U3" pin="2"/>
+    </net>
+    <net code="53" name="/A3">
+      <node ref="U3" pin="20"/>
+      <node ref="J1" pin="9"/>
+    </net>
+    <net code="54" name="/RST">
+      <node ref="J1" pin="10"/>
+      <node ref="U3" pin="22"/>
+    </net>
+    <net code="55" name="/RAW">
+      <node ref="J1" pin="5"/>
+      <node ref="U3" pin="24"/>
+    </net>
+    <net code="56" name="/led">
+      <node ref="R1" pin="1"/>
+      <node ref="U3" pin="13"/>
+    </net>
+  </nets>
+</export>
