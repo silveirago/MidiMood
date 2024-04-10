@@ -42,36 +42,27 @@
 // LIBRARIES
 // -- Defines the MIDI library -- //
 
-
-
-// if using with ATmega328 - Uno, Mega, Nano...
-#ifdef ATMEGA328
-#include <MIDI.h>
-//MIDI_CREATE_DEFAULT_INSTANCE();
-#endif
-
 // if using with ATmega32U4 - Micro, Pro Micro, Leonardo...
 #ifdef ATMEGA32U4
-#include <MIDIUSB.h>
+#include "MIDIUSB.h"
 
 #ifdef MIDI_DIN
-#include <MIDI.h>  // adds the MIDI library to use the hardware serial with a MIDI cable
+#include "MIDI.h"  // adds the MIDI library to use the hardware serial with a MIDI cable
 MIDI_CREATE_INSTANCE(HardwareSerial, Serial1, midi2);
 #endif  //MIDI_DIN
 
+#include "usb_rename.h"
+
+// Product name, Manufacturer, serial
+// Any argument can be left off, or NULL to keep the original Arduino name
+USBRename dummy = USBRename("MidiMood", "Nerd Musician");
+
 #endif  // ATMEGA32U4
-
-#ifdef BLEMIDI
-#include <BLEMidi.h>  // https://github.com/max22-/ESP32-BLE-MIDI
-// Documentation: https://www.arduino.cc/reference/en/libraries/esp32-ble-midi/
-char bleMIDIDeviceName[] = { "BLE Controller" };  // put here the name you want for your device
-#endif
-
 
 //////////////////////
 // Add this lib if using a cd4067 multiplexer
 #ifdef USING_MUX
-#include <Multiplexer4067.h>  // Multiplexer CD4067 library >> https://github.com/sumotoy/Multiplexer4067
+#include "Multiplexer4067.h"  // Multiplexer CD4067 library >> https://github.com/sumotoy/Multiplexer4067
 #endif
 
 
