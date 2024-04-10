@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "MidiMood-(tht)-rescue")(type "Legacy")(uri "${KIPRJMOD}/MidiMood (tht)-rescue.lib")(options "")(descr ""))
+)
