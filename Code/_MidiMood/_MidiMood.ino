@@ -23,7 +23,7 @@
 // "BLEMIDI" if using BLE MIDI (ESP32)
 // "DEBUG" if you just want to debug the code in the serial monitor
 
-#define DEBUG 1  //* put here the uC you are using, like in the lines above followed by "1", like "ATMEGA328 1", "DEBUG 1", etc.
+#define ATMEGA32U4 1  //* put here the uC you are using, like in the lines above followed by "1", like "ATMEGA328 1", "DEBUG 1", etc.
 
 /////////////////////////////////////////////
 // Are you using buttons?
@@ -55,7 +55,7 @@ MIDI_CREATE_INSTANCE(HardwareSerial, Serial1, midi2);
 
 // Product name, Manufacturer, serial
 // Any argument can be left off, or NULL to keep the original Arduino name
-USBRename dummy = USBRename("MidiMood", "Nerd Musician");
+USBRename dummy = USBRename("MidiMood", "Nerd Musician", "1112");
 
 #endif  // ATMEGA32U4
 
