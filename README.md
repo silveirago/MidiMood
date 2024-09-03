@@ -3,9 +3,7 @@
 For a detailed tutorial, visit: 
 
 - Making Music with Arduino: https://go.musiconerd.com/making-music-with-arduino
-
 - Curso Fazendo Música com Arduino em Português: https://go.musiconerd.com/curso-completo
-
 - Build process video: https://youtu.be/aLhOO-UiMg4
 
 This repository contains the code for a custom MIDI controller project called MidiMood, built using an ATmega32U4 microcontroller (or similar). The project is designed to handle potentiometers, buttons, and other controls to send MIDI messages via USB, BLE, or standard MIDI protocols.
